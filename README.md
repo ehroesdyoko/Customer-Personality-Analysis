@@ -22,7 +22,7 @@ The accepted campaign rate is ~6% on average (6%, 1%, 7%, 7%, 7%). Based on the 
 Even though the campaign can be considered successful there are some improvements that can be implemented to enhance the effectivity of the marketing campaign. Beforehand, we will elaborate the condition of the existing marketing campaign data (`AcceptedCmp1-5`). Here are few conditions:
 * There is no explanation what is the `AcceptedCmp1-5` about and the differences between them
 * Since there is no explanation about each marketing campaign, the goal of the campaign is remain unknown
-* The current marketing campaign does not time-boung, meaning that there is no information about what the campaign starts and ends
+* The current marketing campaign does not time-bound, meaning that there is no information about what the campaign starts and ends
 However, these conditions can be intenioally implemented to follow company's regulation and/or country's regulation.
 
 
